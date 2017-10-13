@@ -1,19 +1,26 @@
-greeting: "안녕하세요. default account-service.yml !!"
+devguide:
+  greeting: "안녕하세요. default account-service.yml !!"
 
 ---
 
 spring:
   profiles: stage
-greeing: "스테이징! 안녕하세요!"
+
+devguide:
+  greeing: "스테이징! 안녕하세요!"
 
 ---
 
 spring:
   profiles: dev
-greeing: "dev! 안녕하세요!"
+
+devguide:
+  greeing: "dev! 안녕하세요!"
 
 ---
 
 spring:
   profiles: local
-greeing: "local! 안녕하세요!"
+
+devguide:
+  greeing: "local! 안녕하세요!"
