@@ -5,7 +5,6 @@ devguide:
 
 spring:
   profiles: stage
-
 devguide:
   greeing: "스테이징! 안녕하세요!"
 
@@ -13,7 +12,6 @@ devguide:
 
 spring:
   profiles: dev
-
 devguide:
   greeing: "dev! 안녕하세요!"
 
@@ -21,6 +19,5 @@ devguide:
 
 spring:
   profiles: local
-
 devguide:
   greeing: "local! 안녕하세요!"
