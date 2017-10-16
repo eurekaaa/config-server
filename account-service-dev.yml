@@ -1,0 +1,4 @@
+spring:
+  profile: dev
+devguide:
+  greeing: "dev! 안녕하세요!"
