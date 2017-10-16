@@ -4,20 +4,23 @@ devguide:
 ---
 
 spring:
-  profiles: stage
+  profiles: 
+    active: stage
 devguide:
   greeing: "스테이징! 안녕하세요!"
 
 ---
 
 spring:
-  profiles: dev
+  profiles: 
+    active: dev
 devguide:
   greeing: "dev! 안녕하세요!"
 
 ---
 
 spring:
-  profiles: local
+  profiles: 
+    active: local
 devguide:
   greeing: "local! 안녕하세요!"
