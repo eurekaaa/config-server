@@ -1,4 +1,2 @@
-spring:
-  profile: stage
 devguide:
   greeing: "stage! 안녕하세요!"

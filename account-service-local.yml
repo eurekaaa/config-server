@@ -1,5 +1,2 @@
-spring:
-  profile:
-    active: "local"
 devguide:
   greeing: "local! 안녕하세요!"
